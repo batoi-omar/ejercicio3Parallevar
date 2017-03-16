@@ -1,5 +1,11 @@
 Omar Belda
 bufanda
 pijama
+<<<<<<< HEAD
 pantalones
 camisetas
+=======
+ipad
+camara
+bañador
+>>>>>>> opcionales
