@@ -3,3 +3,4 @@ bufanda
 pijama
 ipad
 camara
+bañador
